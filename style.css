@@ -8,7 +8,7 @@
 html {
   font-size: 62.5%;
   font-family: 'Roboto', sans-serif;
-  background-color: #eeedf5;
+  background-color: #dcdaeb;
 }
 
 nav {
@@ -64,6 +64,7 @@ a:active {
   font-weight: 500;
   margin-bottom: 3rem;
   text-align: center;
+  color: #756db0;
 }
 .profile-section {
   display: flex;
@@ -81,6 +82,7 @@ a:active {
   margin-bottom: 1.2rem;
   color: #9791c4;
 }
+
 .profile-text-main,
 .profile-text-sub {
   font-size: 1.2rem;
@@ -90,6 +92,7 @@ a:active {
 .profile-text-sub {
   font-weight: 500;
   font-size: 1.6rem;
+  color: #756db0;
 }
 .employment-history-section {
   display: flex;
@@ -102,10 +105,12 @@ a:active {
   margin-bottom: 2rem;
   font-weight: 500;
   font-size: 1.6rem;
+  color: #756db0;
 }
 .skills-section {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 6rem;
   font-weight: 500;
   font-size: 1.6rem;
