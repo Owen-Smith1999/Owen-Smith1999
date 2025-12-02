@@ -27,4 +27,3 @@ I have a background in hospitality and digital operations, now self-taught and a
 ## 📫 Contact me
 
 - 📧 Email: owensmithdev@gmail.com  
-- 📞 Phone: 07984 786706  
